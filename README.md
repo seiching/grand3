@@ -1,5 +1,5 @@
 "# grandspeech" 
-# asr_lee.py »y­µ¿ëÃÑ #
-# merge.py ±N»y­µ¿ëÃÑµ²ªG¦X¨Ö #
-# qalee.ipynb ²£µª®× #
-# spiltc.py ¤Ác part #
+# asr_lee.py èªéŸ³è¾¨è­˜ #
+# merge.py å°‡èªéŸ³è¾¨è­˜çµæœåˆä½µ #
+# qalee.ipynb ç”¢ç­”æ¡ˆ #
+# spiltc.py åˆ‡c part #
